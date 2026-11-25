@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destinations - TravelWise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>TravelWise</h1>
+        <p>Explore More, Spend Less</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="destinations.html">Destinations</a>
+        <a href="deals.html">Travel Deals</a>
+        <a href="compare.html">Compare Packages</a>
+        <a href="booking.html">Booking Inquiry</a>
+        <a href="about.html">About Us</a>
+    </nav>
+
+    <main>
+        <h2>Explore Our Destinations</h2>
+
+        <p>
+            Discover beautiful destinations in Canada and
+            around the world. Find your next adventure
+            with TravelWise.
+        </p>
+
+        <h2>Canadian Destinations</h2>
+
+        <section class="destination">
+            <h3>Banff, Alberta</h3>
+            <img src="images/banff.jpg"
+                 alt="Mountains and lake in Banff">
+            <p>
+                Banff is famous for its beautiful mountains,
+                clear lakes and outdoor activities.
+                Visitors can enjoy hiking, sightseeing
+                and exploring Banff National Park.
+            </p>
+        </section>
+
+        <section class="destination">
+            <h3>Vancouver, British Columbia</h3>
+            <img src="images/vancouver.jpg"
+                 alt="Vancouver city skyline">
+            <p>
+                Vancouver offers beautiful beaches,
+                mountains and city attractions.
+                Visitors can explore Stanley Park,
+                Granville Island and the waterfront.
+            </p>
+        </section>
+
+        <section class="destination">
+            <h3>Toronto, Ontario</h3>
+            <img src="images/toronto.jpg"
+                 alt="Toronto skyline and CN Tower">
+            <p>
+                Toronto is one of Canada's largest cities.
+                Visitors can explore the CN Tower,
+                museums, shopping centres and
+                entertainment attractions.
+            </p>
+        </section>
+
+        <h2>International Destinations</h2>
+
+        <section class="destination">
+            <h3>Dubai, United Arab Emirates</h3>
+            <img src="images/dubai.jpg"
+                 alt="Dubai skyline">
+            <p>
+                Dubai is known for modern architecture,
+                shopping malls and desert adventures.
+                Visitors can explore the Burj Khalifa
+                and enjoy desert safari experiences.
+            </p>
+        </section>
+
+        <section class="destination">
+            <h3>Bali, Indonesia</h3>
+            <img src="images/bali.jpg"
+                 alt="Beach and tropical scenery in Bali">
+            <p>
+                Bali is famous for tropical beaches,
+                beautiful temples and natural scenery.
+                Visitors can enjoy cultural attractions,
+                waterfalls and relaxing holidays.
+            </p>
+        </section>
+
+        <section class="destination">
+            <h3>Victoria Falls, Zimbabwe</h3>
+            <img src="images/victoriafalls.jpg"
+                 alt="Victoria Falls waterfall">
+            <p>
+                Victoria Falls is one of the world's
+                most famous waterfalls.
+                Visitors can enjoy scenic views,
+                guided tours and adventure activities.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 TravelWise. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
